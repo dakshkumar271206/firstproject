@@ -1,2 +1,2 @@
 # firstproject
-author = daksh
+author = daksh kumar
